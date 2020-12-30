@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="pt"><Esri><CreaDate>20201230</CreaDate><CreaTime>17123200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Raster Calculator" ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20201230" Time="171232">RasterCalculator Con(("D:\HSI\Topo\22S435ZN+500.tif" &gt; 0) &amp; ("D:\HSI\Topo\22S435ZN+500.tif" &lt; 1500), 1, 0)
- D:\HSI\Results\HSI_0-1500.tif</Process></lineage></DataProperties></Esri></metadata>
